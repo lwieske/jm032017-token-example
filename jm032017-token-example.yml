@@ -1,0 +1,15 @@
+name: jm032017-token-example
+root: ~/Github/jm032017-token-example
+
+pre_window: PROMPT='> ' ; clear
+
+attach: false
+
+windows:
+  - demo:
+      layout: even-vertical
+      panes:
+        - client:
+          - #
+        - node:
+          - #
